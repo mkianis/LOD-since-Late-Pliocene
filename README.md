@@ -5,7 +5,7 @@ Code related to the study of deriving LOD since Late Pliocene
 # Requirements to run the code:
 
 1. install the following python packages: torch, numpy, scipy, ismember, tqdm
-2. make sure you have the data in the folder "data"
+2. make sure you have the data in the folder "data": unzip the data folder
 
 
 # Running the code:
